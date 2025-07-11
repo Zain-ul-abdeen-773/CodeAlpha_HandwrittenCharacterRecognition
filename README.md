@@ -52,9 +52,9 @@ CodeAlpha_HandwrittenCharacterRecognition/
 
 ## 📊 Model Info
 
-- **Model Type**: Custom CNN (3 conv layers + dense)
+- **Model Type**: Custom CNN 
 - **Input Shape**: 28x28 grayscale
-- **Accuracy**: ~95% on EMNIST test set
+- **Accuracy**: ~85% on EMNIST test set
 - **Training Time**: ~20 mins on GPU
 
 ---
