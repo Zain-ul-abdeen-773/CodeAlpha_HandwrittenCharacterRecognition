@@ -71,3 +71,15 @@ pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
+```
+
+## 🤝 Acknowledgements
+Special thanks to CodeAlpha for providing this hands-on opportunity to build and deploy real-world ML applications.
+
+## 📬 Contact
+If you liked this project, connect with me on:
+
+LinkedIn: http://www.linkedin.com/in/zain-ul-abdeen-48aa72318
+
+GitHub: https://github.com/Zain-ul-abdeen-773
+
